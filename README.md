@@ -1,2 +1,2 @@
 # demo-repo
-to follow along with youtube tutorial on github
+to follow along with youtube tutorial on GitHub
